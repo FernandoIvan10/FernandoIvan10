@@ -12,6 +12,7 @@ Soy un desarrollador fullstack con experiencia en JavaScript, Node.js, React y A
 ## 🚀 Proyectos destacados
 
 - **[Sistema de calificaciones MERN](https://github.com/FernandoIvan10/SICA239):** Un sistema para que los estudiantes consulten sus calificaciones. Utiliza el stack MERN (MongoDB, Express, React, Node.js).
+- **[Agenda Web](https://github.com/FernandoIvan10/AgendaWeb):** Aplicación web sencilla de gestión de contactos, donde puedes agregar, editar, eliminar y buscar contactos. Utiliza el stack PERN (PostgreSQL, Express, React, Node.js).
 
 ## 📞 Contacto
 
