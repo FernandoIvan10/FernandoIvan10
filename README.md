@@ -17,6 +17,6 @@ Soy un desarrollador fullstack con experiencia en JavaScript, Node.js, React y A
 ## 📞 Contacto
 
 - 📧 Email: [fascenciocortes@gmail.com](mailto:fascenciocortes@gmail.com)
-- 🌍 LinkedIn: [Fernando Iván](www.linkedin.com/in/fernando-ivan-ascencio-cortes)
+- 🌍 LinkedIn: [Fernando Iván](https://www.linkedin.com/in/fernando-ivan-ascencio-cortes/)
 
 ### Siempre aspirando a más 🍷
