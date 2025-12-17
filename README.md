@@ -1,13 +1,13 @@
 # ¡Hola! Soy Fernando Iván 👋
 
-Soy un desarrollador fullstack con experiencia en JavaScript, Node.js, React y Android. Me apasiona crear aplicaciones web y móviles funcionales, y siempre estoy aprendiendo para mejorar mis habilidades.
+Soy un desarrollador fullstack con experiencia en Java, JavaScript, Node.js, y React. Me apasiona crear aplicaciones web y móviles funcionales, y siempre estoy aprendiendo para mejorar mis habilidades.
 
 ## 🛠 Habilidades
 
 - **Lenguajes de programación:** JavaScript (ES6+), HTML, CSS, Java, Python
 - **Frameworks y librerías:** React.js, React Native, Node.js, Django
 - **Bases de datos:** MongoDB, PostgreSQL, SQLite
-- **Herramientas y tecnologías:** Git, GitHub, Android Studio
+- **Herramientas y tecnologías:** Git, GitHub
 
 ## 🚀 Proyectos destacados
 
